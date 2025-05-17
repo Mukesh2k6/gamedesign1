@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/hhbh/Documents/Unreal Projects/MyProject3/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/hhbh/Documents/Unreal Projects/MyProject3/Content/levels/backroomlevels.umap",
+				"C:/Users/hhbh/Documents/Unreal Projects/MyProject3/Content/_GENERATED/Box_E22F0CC6.uasset"
+			]
+		}
+	]
+}
