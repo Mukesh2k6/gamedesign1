@@ -1,0 +1,9 @@
+[0517/130823.649:ERROR:simple_version_upgrade.cc(147)] Failed to write a new fake index.
+[0517/130823.649:ERROR:simple_version_upgrade.cc(147)] Failed to write a new fake index.
+[0517/130828.490:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0517/130828.491:ERROR:cache_util.cc(144)] Unable to move cache folder C:/gamedesign1/Saved/webcache_4430\Cache to C:/gamedesign1/Saved/webcache_4430\old_Cache_000
+[0517/130828.491:ERROR:disk_cache.cc(184)] Unable to create cache
+[0517/130831.535:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0517/130901.080:ERROR:database.cc(1707)] Cookie sqlite error 2067, errno 0: UNIQUE constraint failed: cookies.host_key, cookies.name, cookies.path, sql: INSERT INTO cookies (creation_utc, host_key, name, value, path, expires_utc, is_secure, is_httponly, last_access_utc, has_expires, is_persistent, priority, encrypted_value, samesite, source_scheme, source_port, is_same_party) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[0517/130901.130:ERROR:database.cc(1707)] Cookie sqlite error 2067, errno 0: UNIQUE constraint failed: cookies.host_key, cookies.name, cookies.path, sql: INSERT INTO cookies (creation_utc, host_key, name, value, path, expires_utc, is_secure, is_httponly, last_access_utc, has_expires, is_persistent, priority, encrypted_value, samesite, source_scheme, source_port, is_same_party) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[0517/131024.054:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
